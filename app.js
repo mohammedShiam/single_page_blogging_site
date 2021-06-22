@@ -43,4 +43,3 @@ mongoose.connect(monogURI, {
 .catch(e=>{
     console.log(e)
 })
-// TODO: Last Video was 32 min.
